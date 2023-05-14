@@ -1,0 +1,8 @@
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\obj\Debug\KavitaConsoleApp.csproj.AssemblyReference.cache
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\obj\Debug\KavitaConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\obj\Debug\KavitaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\bin\Debug\KavitaConsoleApp.exe.config
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\bin\Debug\KavitaConsoleApp.exe
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\bin\Debug\KavitaConsoleApp.pdb
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\obj\Debug\KavitaConsoleApp.exe
+C:\Users\prata\source\repos\KavitaConsoleApp\KavitaConsoleApp\obj\Debug\KavitaConsoleApp.pdb
